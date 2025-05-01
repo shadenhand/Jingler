@@ -1,5 +1,6 @@
----
-Jingler
+JINGLER
+--
+
 This is a project zomboid mod for build 42 which adds immersive key jingle sounds. The more keys you carry, the faster you move, the louder the jingle. Jingles will attract zombies so stash them in a bag to muffle the noise. 
 
 ## Features
