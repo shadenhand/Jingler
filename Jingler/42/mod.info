@@ -1,0 +1,10 @@
+
+name=Jingle
+id=Jingle
+author=Shadenhand
+description=Keys are loud As somebody with a lot of keys, I can tell you, they're loud af. This brings that in game. More keys more noise. Want to muffle them? put em in a bag or something. 
+version=1.0
+loader=lua
+module=media
+icon=icon.png
+poster=poster.png
