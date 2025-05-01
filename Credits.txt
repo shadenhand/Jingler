@@ -1,6 +1,15 @@
 Credits for Jingle Mod:
 
 Sound Files:
-- "Keys Jingle" by BanditXF
-  Source: https://freesound.org/s/676839/
+- "Keys Jingle" by BanditXF  
+  Source: https://freesound.org/s/676839/  
   License: Creative Commons 0
+
+Icons:
+- "Speaker" icon by Delapouite  
+  Source: https://game-icons.net/1x1/delapouite/speaker.html  
+  License: Creative Commons BY 3.0
+
+- "Keyring" icon by Delapouite  
+  Source: https://game-icons.net/1x1/delapouite/keyring.html  
+  License: Creative Commons BY 3.0
